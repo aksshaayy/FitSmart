@@ -1,0 +1,4 @@
+Age, Weight, Fitness_Goal, Health_Condition, Recommended_Workout, Calorie_Estimate
+25, 70, Muscle Gain, None, "Strength training: Squats, Bench Press, Deadlifts (4x8 reps)", 500
+30, 80, Weight Loss, Diabetes, "Cardio: Running 30 mins, HIIT 15 mins", 400
+45, 75, General Fitness, Hypertension, "Yoga, Light cardio, Resistance bands", 300
